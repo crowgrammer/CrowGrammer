@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @crowgrammer
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning js, React, React native
-- 💞️ I’m looking to collaborate on anything I can get my hands on that'll teach me something new
-- 📫 How to reach me mhmed.alldin@gmail.com
+# Crowgrammer (n.)
+## A Programmer 🧑🏻‍💻 that likes to find and use
+## shiny ✨ new technology 👾🤖
+
+This Crowgrammer Likes to play with Web Development automation tasks and theming weird things like terminals and code editors.
 
 <!---
 MuhammedCrow/MuhammedCrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
