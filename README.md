@@ -1,4 +1,4 @@
-# Crowgrammer ### (n.)
+# Crowgrammer (n.)
 ## A Programmer 🧑🏻‍💻 that likes to find and use
 ## shiny ✨ new technology 👾🤖
 
